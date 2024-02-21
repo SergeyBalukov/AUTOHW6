@@ -20,7 +20,7 @@ import weather.Weather;
 
 import static com.github.tomakehurst.wiremock.client.WireMock.*;
 import static io.restassured.RestAssured.*;
-
+//HW6
 public class AccuweatherWireMockWithRestAssuredTest extends AccuweatherWireMockWithRestAssuredAbstractTest {
     private static final Logger logger
             = LoggerFactory.getLogger(AccuweatherWireMockWithRestAssuredTest.class);
