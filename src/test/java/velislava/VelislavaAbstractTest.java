@@ -13,7 +13,7 @@ import java.io.InputStream;
 import java.util.Scanner;
 
 import static com.github.tomakehurst.wiremock.client.WireMock.configureFor;
-
+//HW6
 public abstract class VelislavaAbstractTest {
     private static WireMockServer wireMockServer = new WireMockServer();
     private static final int port = 8080;
