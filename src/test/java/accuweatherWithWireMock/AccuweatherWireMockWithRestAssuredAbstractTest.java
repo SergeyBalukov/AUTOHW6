@@ -7,7 +7,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import static com.github.tomakehurst.wiremock.client.WireMock.configureFor;
-
+//hw5
 public abstract class AccuweatherWireMockWithRestAssuredAbstractTest {
     private static WireMockServer wireMockServer = new WireMockServer();
     private static final int port = 8080;
