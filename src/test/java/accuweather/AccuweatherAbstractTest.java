@@ -6,7 +6,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
-
+//hw3
 public abstract class AccuweatherAbstractTest {
 
     static Properties prop = new Properties();
