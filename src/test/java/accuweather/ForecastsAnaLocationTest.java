@@ -21,7 +21,7 @@ import weather.Weather;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.Matchers.lessThan;
-
+//hw6
 public class ForecastsAnaLocationTest extends AccuweatherAbstractTest {
 
 
